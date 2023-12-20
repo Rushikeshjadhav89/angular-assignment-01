@@ -1,0 +1,14 @@
+#image{
+    display: flex;
+    justify-content: space-around;
+}
+#name{
+    text-align: center;
+}
+#btn{
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    background-color: cadetblue;
+}
